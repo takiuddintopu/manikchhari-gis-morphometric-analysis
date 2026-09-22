@@ -175,8 +175,11 @@ manikchhari-gis-morphometric-analysis/
 This project was completed as an assignment for:
 
 **Course:** GIS Programming and Spatial Analysis Lab
+
 **Course Code:** ESG-4108
+
 **Department:** Environmental Science and Geography
+
 **Institution:** Islamic University, Bangladesh
 
 The original assignment was titled **"Morphometric Analysis."**
