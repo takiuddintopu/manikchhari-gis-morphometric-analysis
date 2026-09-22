@@ -2,23 +2,24 @@
 manikchhari-gis-morphometric-analysis/
 │
 ├── README.md
+|
 ├── LICENSE
 │
 └── figures/
     ├── 01-study-area/
-    │   └── study_area_map.png
+    │   └── study-area-map-of-manikchhari.png
     │
     ├── 02-elevation/
-    │   └── elevation_map.png
+    │   └── elevation-map.png
     │
     ├── 03-slope/
-    │   └── slope_map.png
+    │   └── slope-map.png
     │
     ├── 04-stream-order/
-    │   └── stream_order_map.png
+    │   └── stream-order-map.png
     │
-    ├── 05-line-density/
-    │   └── line_density_map.png
+    ├── 05-drainage-density/
+    │   └── drainage-density-map.png
     │
     └── 06-drainage-pattern/
-        └── drainage_pattern_map.png
+        └── drainage-pattern-map.png
