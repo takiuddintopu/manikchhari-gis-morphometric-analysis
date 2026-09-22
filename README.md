@@ -14,7 +14,7 @@ The study area was analyzed using GIS-based terrain and drainage information to 
 
 ### Study Area Map
 
-![Study Area Map](figures/01-study-area/study-area-map-of-manikchhari.png)
+![Study Area Map](figures/01-study-area/study-area-map-of-manikchhari.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The analysis focuses on:
 
 The elevation map represents the spatial variation of terrain elevation across Manikchhari Upazila.
 
-![Elevation Map](figures/02-elevation/elevation-map.png)
+![Elevation Map](figures/02-elevation/elevation-map.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ The elevation map represents the spatial variation of terrain elevation across M
 
 The slope map illustrates the spatial variation of terrain slope within the study area.
 
-![Slope Map](figures/03-slope/slope-map.png)
+![Slope Map](figures/03-slope/slope-map.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ The slope map illustrates the spatial variation of terrain slope within the stud
 
 The stream-order map presents the hierarchical organization of the drainage network within the study area.
 
-![Stream Order Map](figures/04-stream-order/stream-order-map.png)
+![Stream Order Map](figures/04-stream-order/stream-order-map.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ The stream-order map presents the hierarchical organization of the drainage netw
 
 The drainage-density map illustrates the spatial distribution of drainage density across Manikchhari Upazila.
 
-![Drainage Density Map](figures/05-drainage-density/drainage-density-map.png)
+![Drainage Density Map](figures/05-drainage-density/drainage-density-map.jpg)
 
 ---
 
@@ -71,7 +71,7 @@ The drainage-density map illustrates the spatial distribution of drainage densit
 
 The drainage-pattern map presents the spatial configuration of the drainage network within the study area.
 
-![Drainage Pattern Map](figures/06-drainage-pattern/drainage-pattern-map.png)
+![Drainage Pattern Map](figures/06-drainage-pattern/drainage-pattern-map.jpg)
 
 ---
 
@@ -147,25 +147,25 @@ manikchhari-gis-morphometric-analysis/
 |
 ├── LICENSE
 │
+|
 └── figures/
-    │
     ├── 01-study-area/
-    │   └── study-area-map-of-manikchhari.png
+    │   └── study-area-map-of-manikchhari.jpg
     │
     ├── 02-elevation/
-    │   └── elevation-map.png
+    │   └── elevation-map.jpg
     │
     ├── 03-slope/
-    │   └── slope-map.png
+    │   └── slope-map.jpg
     │
     ├── 04-stream-order/
-    │   └── stream-order-map.png
+    │   └── stream-order-map.jpg
     │
     ├── 05-drainage-density/
-    │   └── drainage-density-map.png
+    │   └── drainage-density-map.jpg
     │
     └── 06-drainage-pattern/
-        └── drainage-pattern-map.png
+        └── drainage-pattern-map.jpg
 ```
 
 ---
