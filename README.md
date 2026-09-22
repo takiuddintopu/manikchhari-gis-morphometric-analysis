@@ -174,12 +174,9 @@ manikchhari-gis-morphometric-analysis/
 
 This project was completed as an assignment for:
 
-**Course:** GIS Programming and Spatial Analysis Lab
-
-**Course Code:** ESG-4108
-
-**Department:** Environmental Science and Geography
-
+**Course:** GIS Programming and Spatial Analysis Lab, 
+**Course Code:** ESG-4108, 
+**Department:** Environmental Science and Geography, 
 **Institution:** Islamic University, Bangladesh
 
 The original assignment was titled **"Morphometric Analysis."**
@@ -200,15 +197,9 @@ The repository documents the available analyses and outputs without claiming add
 
 **Mohd. Takiuddin**
 
-Environmental Science & Geography
+Environmental Science & Geography,
 Islamic University, Bangladesh
 
 **GitHub:** [@takiuddintopu](https://github.com/takiuddintopu)
 
 ---
-
-## 📌 Project Status
-
-**Completed — Portfolio Presentation**
-
-This repository documents the available GIS outputs from the completed academic project.
